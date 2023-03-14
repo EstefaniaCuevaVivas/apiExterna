@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main{
+  background-image: url("https://img.freepik.com/vector-gratis/fondo-plano-estilo-comic_52683-54699.jpg?w=1380&t=st=1678706264~exp=1678706864~hmac=d584876e42a6b6e64a73875f1f4c9b14be4d7b16c6459177f5ad10e19927b84c") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div{
+  
+  width: 50%;
+  height: 40vh;
+  margin-top: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form{
+
+  border-radius: 10px;
+  width: 40%;
+  height: 45%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 3%;
+
+}
+
+.button{
+  background-color: rgba(248, 7, 7,.7);
+  border-radius: 4px;
+  height: 80%;
+  border: none;
+  color: white;
+}
+
+.input{
+
+  border: 4px dotted rgb(233, 44, 44);
+  height: 100%;
+  text-align: center;
+  
+  
+}
