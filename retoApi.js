@@ -1,6 +1,5 @@
 
 
-
 function getPokemon(){
 
   let namePokemon = document.getElementById("pokemon").value;
